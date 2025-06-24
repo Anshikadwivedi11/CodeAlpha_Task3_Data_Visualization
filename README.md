@@ -38,6 +38,10 @@ To transform the Netflix dataset into clear and impactful visualizations using P
    - Bar chart of most popular genres OR histogram of movie duration.  
    ![Genre or Duration Plot](screenshots/5_plot_genre_or_duration.png)
 
+5. ⏱ **Movie Duration Distribution**  
+   Histogram visualizing the distribution of movie durations.  
+   ![Duration Distribution](screenshots/6_duration_distribution.png)
+
 ## 📂 Files Included
 - `CodeAlpha_Task3_Visualization.ipynb` — Jupyter Notebook  
 - `netflix_titles.csv` — Dataset used  
