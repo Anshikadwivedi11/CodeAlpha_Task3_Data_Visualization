@@ -45,7 +45,7 @@ To transform the Netflix dataset into clear and impactful visualizations using P
 ## 📂 Files Included
 - `CodeAlpha_Task3_Visualization.ipynb` — Jupyter Notebook  
 - `netflix_titles.csv` — Dataset used  
-- `screenshots/` — Folder containing all 5 output screenshots  
+- `screenshots/` — Folder containing all 6 output screenshots  
 
 ## 🏁 Outcome
 This task helped build practical skills in:
